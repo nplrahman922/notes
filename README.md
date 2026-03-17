@@ -1,12 +1,12 @@
 # notes app mobile
 
-<div class = "flex flex-col items-center justify-center h-screen">
-    <img src="./public/Logo.png">
+<div style="text-align: center; height: 100vh;">
+    <img src="./public/Logo.png" style="width: 200px; height: 200px;">
 </div>
 
-<h1> notes adalah aplikasi pencatatan manajemen bisnis dan keugan serta pencatatan asset 
+<p style="text-align: center;"> notes adalah aplikasi pencatatan manajemen bisnis dan keugan serta pencatatan asset 
 harian , bulanan , maupun tahunan
-</h1>
+</p>
 
 <li>
     <h3> 
