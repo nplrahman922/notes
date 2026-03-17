@@ -4,22 +4,22 @@
     <img src="./public/Logo.png">
 </div>
 
-<p> notes adalah aplikasi pencatatan manajemen bisnis dan keugan serta pencatatan asset 
+<h1> notes adalah aplikasi pencatatan manajemen bisnis dan keugan serta pencatatan asset 
 harian , bulanan , maupun tahunan
-</p
+</h1>
 
 <li>
     <h3> 
-        Inisiasi Project menggunakan 
+        Inisiasi Project
     </h3>
     <ul><code>npm install</code></ul>
     <ul><code> npm tauri android init</code></ul>
     <h3>
-        untuk menjalankan aplikasi di android gunakan perintah = 
+        untuk menjalankan aplikasi di android 
     </h3>
     <ul><code>npm tauri android dev</code></ul>
     <h3>
-        untuk build aplikasi di android gunakan perintah = 
+        untuk build aplikasi di android 
     </h3>
     <ul><code>npm tauri android build</code></ul>
 </li>
