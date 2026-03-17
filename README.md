@@ -9,18 +9,18 @@ harian , bulanan , maupun tahunan
 </p
 
 <li>
-    <p> 
-        Inisiasi Project menggunakan =
-    </p>
+    <h3> 
+        Inisiasi Project menggunakan 
+    </h3>
     <ul><code>npm install</code></ul>
     <ul><code> npm tauri android init</code></ul>
-    <p>
+    <h3>
         untuk menjalankan aplikasi di android gunakan perintah = 
-    </p>
+    </h3>
     <ul><code>npm tauri android dev</code></ul>
-    <p>
+    <h3>
         untuk build aplikasi di android gunakan perintah = 
-    </p>
+    </h3>
     <ul><code>npm tauri android build</code></ul>
 </li>
 
