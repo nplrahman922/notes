@@ -1,28 +1,25 @@
 # notes app mobile
 
 <div style="text-align: center; height: 100vh;">
-    <img src="./public/Logo.png" style="width: 200px; height: 200px;">
+    <img src="./public/Logo.png">
 </div>
 
 <p style="text-align: center;"> notes adalah aplikasi pencatatan manajemen bisnis dan keugan serta pencatatan asset 
 harian , bulanan , maupun tahunan
 </p>
 
-<li>
-    <h3> 
-        Inisiasi Project
-    </h3>
-    <ul><code>npm install</code></ul>
-    <ul><code> npm tauri android init</code></ul>
-    <h3>
-        untuk menjalankan aplikasi di android 
-    </h3>
-    <ul><code>npm tauri android dev</code></ul>
-    <h3>
-        untuk build aplikasi di android 
-    </h3>
-    <ul><code>npm tauri android build</code></ul>
-</li>
+# Inisiasi Project
+
+    <li><code>npm install</code></li>
+    <li><code> npm tauri android init</code></li>
+
+# untuk menjalankan aplikasi di android
+
+    <li><code>npm tauri android dev</code></li>
+
+# untuk build aplikasi di android
+
+    <li><code>npm tauri android build</code></li>
 
 # Tauri + Vue + TypeScript
 
