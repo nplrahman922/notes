@@ -12,24 +12,16 @@ harian , bulanan , maupun tahunan
     <p> 
         Inisiasi Project menggunakan =
     </p>
-    <code>
-        npm install
-    </code>
-    <code>
-        npm tauri android init
-    </code>
+    <ul><code>npm install</code></ul>
+    <ul><code> npm tauri android init</code></ul>
     <p>
         untuk menjalankan aplikasi di android gunakan perintah = 
     </p>
-    <code>
-        npm tauri android dev
-    </code>
+    <ul><code>npm tauri android dev</code></ul>
     <p>
         untuk build aplikasi di android gunakan perintah = 
     </p>
-    <code>
-        npm tauri android build
-    </code>
+    <ul><code>npm tauri android build</code></ul>
 </li>
 
 # Tauri + Vue + TypeScript
